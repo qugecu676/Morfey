@@ -1,0 +1,7 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title desc">
+  <title id="title">Логотип Морфей38</title>
+  <desc id="desc">Синий квадрат со стилизованным светлым пером</desc>
+  <rect width="64" height="64" rx="14" fill="#4091c9"/>
+  <path d="M38 10c-8 4-16 18-16 30 0 7 4 12 10 12 9 0 14-11 14-24 0-5-1-11-8-18z" fill="#f8e1cd"/>
+  <path d="M31 21c2 7 2 18-2 25" stroke="#ffffff" stroke-width="2" stroke-linecap="round"/>
+</svg>
