@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="logoTitle logoDesc">
+  <title id="logoTitle">Логотип Морфей 38</title>
+  <desc id="logoDesc">Стилизованное перо в фирменных синих оттенках</desc>
+  <defs>
+    <linearGradient id="logo-feather-main" x1="24" y1="26" x2="106" y2="108" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#6fc7f0"/>
+      <stop offset="0.38" stop-color="#4091c9"/>
+      <stop offset="1" stop-color="#1c5fae"/>
+    </linearGradient>
+    <linearGradient id="logo-feather-deep" x1="33" y1="20" x2="96" y2="118" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#21398d"/>
+      <stop offset="1" stop-color="#0b175f"/>
+    </linearGradient>
+    <linearGradient id="logo-feather-accent" x1="30" y1="35" x2="67" y2="44" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f8e1cd"/>
+      <stop offset="1" stop-color="#8cd7f2"/>
+    </linearGradient>
+    <filter id="logo-shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="8" stdDeviation="7" flood-color="#071320" flood-opacity="0.26"/>
+    </filter>
+  </defs>
+  <g filter="url(#logo-shadow)">
+    <path fill="url(#logo-feather-main)" d="M108 18c-13-7-31-8-47-3C40 22 22 40 16 64c-3 13-2 28 5 41 7-10 17-17 30-21-10 6-18 16-20 28 10-3 20-2 29 2 11 4 22 10 33 18 6-15 11-29 12-44 2-26-10-50-32-67 18 6 32 17 42 33 3-13 1-26-7-38Z"/>
+    <path fill="url(#logo-feather-deep)" d="M101 33c-12-7-27-10-42-7-16 3-31 14-40 28 13-4 26-6 39-5 13 1 25 3 37 2 7-1 14-4 21-9-7 10-17 18-28 23 9 4 18 10 25 18-5-1-10 0-14 3 10 8 18 18 22 30 5 13 5 27 1 40-2-18-10-34-21-47-11-14-26-24-43-31-10-4-20-7-31-8 7-10 16-18 28-22-8-2-17-3-25-3-11 0-22 2-33 6 3-11 9-21 17-29 9-9 21-15 33-18 15-4 31-2 45 4 4 2 8 4 12 7-1-4-3-8-5-12Z"/>
+    <path fill="url(#logo-feather-main)" d="M69 33c-12-4-25-3-36 2-14 7-25 21-28 37 9-8 21-13 34-15 10-1 20 0 29 0 9 1 18 0 26-3-6 8-13 15-22 19 8 3 14 10 18 18-5-3-11-5-16-4-9 1-17 6-23 13-5 7-9 16-10 26-7-10-10-22-8-34 3-18 14-34 30-42-11 2-21 6-29 12 5-11 14-20 25-26 12-6 27-7 40-3 10 3 19 9 26 18-1-9-6-18-14-25-5-4-10-7-16-10Z"/>
+    <path fill="url(#logo-feather-deep)" d="M77 39c-10 5-18 14-22 25-4 11-4 24 0 36 4 12 13 23 25 31-7-10-10-22-10-34 0-15 5-29 15-40 10-11 16-25 17-40-8 7-17 14-25 22Z"/>
+    <path fill="url(#logo-feather-main)" d="M62 69c-8 1-16 5-22 11-8 9-12 21-11 33 4-4 8-8 12-11-3 6-4 12-3 19 1 6 4 12 8 17 0-10 2-19 7-27 4-8 11-15 19-20 8-6 17-10 26-13-12-6-24-10-36-9Z"/>
+    <path fill="url(#logo-feather-accent)" d="M27 34c6-4 14-6 22-5 6 0 12 2 18 1-5 4-10 6-16 7-9 1-17 0-24-3Z"/>
+  </g>
+</svg>
